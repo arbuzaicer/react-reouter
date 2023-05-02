@@ -1,0 +1,8 @@
+.navigation {
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  height: 50px;
+  color: white;
+  align-items: center;
+}
